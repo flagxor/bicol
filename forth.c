@@ -1,6 +1,5 @@
 #include "interpreter.h"
 #include <stdio.h>
-#include <SDL2/SDL.h>
 #include <dlfcn.h>
 
 extern uint8_t boot[];
